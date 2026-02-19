@@ -3,7 +3,7 @@ name: space-reclamation-plan
 description: Develop a comprehensive plan to reclaim car-dominated space and convert it to pedestrian, cycling, transit, or green space use.
 license: MIT
 metadata:
-  version: 1.0.5022
+  version: 1.0.5023
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
